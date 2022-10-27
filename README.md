@@ -37,7 +37,7 @@
 
 <p align="center">
 <a href="https://www.sclebron.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sclebron.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sophielebron/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sophielebron/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sophie%20LeBron-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:sophieclebron@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sophieclebron@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
