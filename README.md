@@ -1,6 +1,6 @@
 <h2> Hey there, I'm Sophie!</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩🏻‍💻 &nbsp;About Me</h3>
 
 - 🎓 &nbsp; Recent graduate of the University of Denver Coding Boot Camp
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
