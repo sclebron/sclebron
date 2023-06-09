@@ -3,7 +3,7 @@
 <h3> 👩🏻‍💻 &nbsp;About Me</h3>
 
 - 🎓 &nbsp; Recent graduate of the University of Denver Coding Boot Camp
-- 🖥 &nbsp; Currently work as a Teaching Assistant for the University of Utah Coding Boot Camp
+- 🖥 &nbsp; Currently work as a Teaching Assistant for the University of Washington Coding Boot Camp
 - 💼 &nbsp; Open to work!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
